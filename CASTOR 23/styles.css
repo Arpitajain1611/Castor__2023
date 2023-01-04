@@ -326,7 +326,7 @@ img {
 }
 
 .share__img {
-  width: auto;
+  width: 280px;
   justify-self: center;
 }
 
@@ -947,7 +947,12 @@ time {
   margin: 5% 10%; 
 /*   width: 100%; */
 }
-
+.platinum img{
+	padding: 2rem;
+}
+.solana img{
+	padding: 2.9rem;
+}
 
 /* Slick -- Slider */
 
@@ -1107,12 +1112,4 @@ time {
   list-style-type: disc;
   text-align: start;
   padding-left:2vw;
-}
-
-.platinum img{
-	padding: 2rem;
-}
-
-.solana img{
-	padding: 2rem;
 }
